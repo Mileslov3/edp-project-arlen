@@ -1,0 +1,1 @@
+"""Event-driven coffee shop."""

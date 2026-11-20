@@ -9,7 +9,7 @@ in a local event queue. No network, no external libraries.
 
 ## How to run
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mileslov3/edp-project-arlen.git
 cd edp-project-arlen
 python main.py
 ```
